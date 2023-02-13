@@ -1,0 +1,29 @@
+.headBar{
+  display: flex;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+
+.filter{
+  margin-left: 15px;
+  border: 1px solid grey;
+  font: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 10px;
+}
+
+.filter:hover{
+  cursor: pointer;
+}
+
+.images-view{
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  margin-left: 95px;
+  margin-top: 20px;
+}
+
+.one-image{
+  padding: 15px 10px;
+}
